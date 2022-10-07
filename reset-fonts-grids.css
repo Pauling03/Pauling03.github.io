@@ -2,13 +2,13 @@
 <html>
 <head>
 
-	<title>Jonathan Doe | Web Designer, Director | name@yourdomain.com</title>
+	<title>Christa Jes Loreto |USC Student| name@yourdomain.com</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 
-	<link rel="stylesheet" type="text/css" href="reset-fonts-grids.css" media="all" /> 
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" /> 
 	<link rel="stylesheet" type="text/css" href="resume.css" media="all" />
 
 </head>
@@ -20,8 +20,8 @@
 		<div id="hd">
 			<div class="yui-gc">
 				<div class="yui-u first">
-					<h1>Jonathan Doe</h1>
-					<h2>Web Designer, Director</h2>
+					<h1>Christa Jes Loreto</h1>
+					<h2>USC Student</h2>
 				</div>
 
 				<div class="yui-u">
@@ -165,3 +165,4 @@
 
 </body>
 </html>
+
